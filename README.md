@@ -11,14 +11,14 @@ State -- states from which data is collected
 Profit  -- profit of each state in the past few years
 
 # Visulizaiton 
-![](Image/1.PNG)
-![](Image/2.PNG)
-![](Image/3.PNG)
+![](Image/1.png)
+![](Image/2.png)
+![](Image/3.png)
 
 # R2
 ![](Image/4.PNG)
 
 # Transformation Data and R2 for it
 
-![](Image/5.PNG)
+![](Image/5.png)
 ![](Image/6.PNG)
