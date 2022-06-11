@@ -9,3 +9,8 @@ Administration -- spend on administration in the past few years
 Marketing Spend -- spend on Marketing in the past few years
 State -- states from which data is collected
 Profit  -- profit of each state in the past few years
+
+# Visulizaiton 
+![](Image/1.PNG)
+![](Image/2.PNG)
+![](Image/3.PNG)
