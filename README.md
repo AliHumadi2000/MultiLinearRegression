@@ -11,9 +11,9 @@ State -- states from which data is collected
 Profit  -- profit of each state in the past few years
 
 # Visulizaiton 
-![](Image\1.PNG)
-![](Image\2.PNG)
-![](Image\3.PNG)
+![](Image/1.Png)
+![](Image/2.PNG)
+![](Image/3.PNG)
 
 # R2
-![](Image\4.PNG)
+![](Image/4.PNG)
